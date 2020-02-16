@@ -22,7 +22,7 @@ We suggest you to choose the first way (i.e. reply this email). If your choose t
 
 So, please choose the first way.
 
----
+***
 
 **All you need to do are the two steps above. Then, wait for the moderator to approve your request.**
 
