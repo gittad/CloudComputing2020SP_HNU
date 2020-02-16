@@ -1,10 +1,10 @@
 # How to join *CloudComputing2020SP_HNU* forum
 
-#### step 1. Send an email (content unlimited) to ***CloudComputing2020SP_HNU+subscribe@googlegroups.com***.
+### step 1. Send an email (content unlimited) to ***CloudComputing2020SP_HNU+subscribe@googlegroups.com***.
 
-#### step 2. Reply the email (content unlimited) that you will receive immediately. 
+### step 2. Reply the email (content unlimited) that you will receive immediately. 
 
-If you have finished step 1, you will receive an email in a few seconds. This email looks like this:
+**[Description of step 2:]** If you have finished step 1, you will receive an email in a few seconds. This email looks like this:
 
 <div align=center>
 
@@ -13,7 +13,7 @@ If you have finished step 1, you will receive an email in a few seconds. This em
 
 This email is to confirm if you want to continue with your join request. Then, you should reply to this email or click the *Join This Group* link as shows below. 
 
-We suggest you to choose the first way (i.e. reply this email). If your choose the latter approach (i.e. click *Join This Group* link). You may get an error message like this: 
+We suggest you to choose the first way (i.e. reply this email). If your choose the latter approach (i.e. click on the *Join This Group* link). You may get an error message like this: 
 
 <div align=center>
 
@@ -31,4 +31,4 @@ Once the moderator approve your request, you will receive a *request-approved* e
 ![request_approved](img/request_approved.png "request_approved email")
 </div>
 
-***Now, please enjoy !!!***
+***Now, you have joined *CloudComputing2020SP_HNU* forum. please enjoy !!!***
