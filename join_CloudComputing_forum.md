@@ -4,14 +4,14 @@
 
 ### step 2. Reply the email (content unlimited) that you will receive immediately. 
 
-**[Description of step 2:]** If you have finished step 1, you will receive an email in a few seconds. This email looks like this:
+**[Description of step 2]:** If you have finished step 1, you will receive an email in a few seconds. This email looks like this:
 
 <div align=center>
 
 ![rq_confirm_email](img/rq_confirm_email.png "the join request confirmation email")
 </div>
 
-This email is to confirm if you want to continue with your join request. Then, you should reply to this email or click the *Join This Group* link as shows below. 
+This email is to confirm if you want to continue with your join request. Then, you should reply to this email or click on the *Join This Group* link as shows below. 
 
 We suggest you to choose the first way (i.e. reply this email). If your choose the latter approach (i.e. click on the *Join This Group* link). You may get an error message like this: 
 
