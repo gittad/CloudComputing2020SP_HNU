@@ -33,4 +33,4 @@ Once the moderator approve your request, you will receive a *request-approved* e
 ![request_approved](img/request_approved.png "request_approved email")
 </div>
 
-***Now, you have joined *CloudComputing2020SP_HNU* forum. please enjoy !!!***
+***Now, you have joined *CloudComputing2020SP_HNU* forum. Please enjoy !!!***
