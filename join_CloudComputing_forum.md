@@ -2,6 +2,8 @@
 
 ### step 1. Send an email (content unlimited) to ***CloudComputing2020SP_HNU+subscribe@googlegroups.com***.
 
+**[note]:** You should know that the email address above is only for registration. If you want to discuss technical issues, Please send your email to ***CloudComputing2020SP_HNU@googlegroups.com***.
+
 ### step 2. Reply the email (content unlimited) that you will receive immediately. 
 
 **[Description of step 2]:** If you have finished step 1, you will receive an email in a few seconds. This email looks like this:
